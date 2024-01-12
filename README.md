@@ -7,7 +7,7 @@ Enginnering student and developer
 I started learning code six years ago. My path started when I took my first HTML class at my school, and I found that I really loved to code. I learned a lot about backend and front-end development, as well as about artistic intelligence.
 
 * 🌍  I'm based in Cairo, Egypt
-* 🖥️  See my portfolio at [My personal website](http://amr-ezzat.pages.dev)
+* 🖥️  See my portfolio at [My personal website](https://amreahmed.github.io/My-Portfolio)
 * ✉️  You can contact me at [amr43103@gmail.com](mailto:amr43103@gmail.com)
 * 🚀  I'm currently working on [clux paste](http://clux.xyz)
 * 🧠  I'm learning Figma, and React Native
