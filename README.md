@@ -1,8 +1,8 @@
 <div align="center">
 
-Hi 👋, I'm Amr Ezzat
+<h1> Hi 👋, I'm Amr Ezzat</h1>
 
-Computer Engineering Senior | Software & Systems Enthusiast
+<h2>Computer Engineering Senior | Software & Systems Enthusiast</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
