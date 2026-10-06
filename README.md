@@ -1,6 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amr Ezzat
 =================================================================================================================================
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="amreahmed's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 Enginnering student and developer
 ---------------------------------
 
