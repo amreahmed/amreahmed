@@ -37,7 +37,7 @@ jobs:
 
       - name: Download both themes
         env:
-          HANDLE: <handle>
+          HANDLE: amreahmed
           # Swap this for your own deployment if you self-host gh-ascii.
           GH_ASCII_URL: https://gh.crafter.run
           # Optional: ASCII resolution, 40-160 (default 100).
