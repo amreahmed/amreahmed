@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Amr Ezzat
 
-### Computer Engineering Senior | Software & Systems Enthusiast
+### Computer Engineering Senior
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
